@@ -1,17 +1,1 @@
-['Call Activity ID', 'Agent Bank ID', 'Month', 'Key', 'CAP',
-       'Agent Full Name', 'Country', 'Type', 'Verification Status',
-       'Call Status', 'Call Queue Wait Time (CTI)', 'Call Start Time',
-       'Call Hang Up Time', 'Call Completed Time', 'Talk Time (Days)',
-       'Talk Time', 'Disposition Time (Days)', 'Disposition Time',
-       'AHT (Days)', 'AHT', 'Nature of Calls', 'Notes', 'General - Name',
-       'General - Contact No.', 'Transferred Call', 'Transferred By',
-       'Language', 'Last IVR Menu Code', 'Last IVR Menu', 'Agent ID (CTI)',
-       'Agent Ext (CTI)', 'Caller Line ID (CTI)', 'Customer No (CTI)',
-       'Relationship No (CTI)', 'Account No (CTI)', 'Connection ID (CTI)',
-       'Authentication Code (CTI)', 'Action (CTI)', 'Phone Banking ID (CTI)',
-       'Reference No (CTI)', 'DNIS (CTI)', 'Queue Name (CTI)',
-       'Request Date (CTI)', 'Location (CTI)', 'Relationship No (Agent)',
-       'Account No (Agent)', 'Agent Manager', 'Pitch Status',
-       'Reason not Pitched', 'Product Type', 'Primary Call Type',
-       'Secondary Call Type', 'Customer Segment', 'Account Status',
-       'Registered Mobile No.', 'Map data']
+.
